@@ -4,6 +4,8 @@ import Todo from './components/Todo'
 import './styles/reset.css'
 import './styles/styles.css'
 
+// initial commit
+
 const domNode = document.getElementById('root')
 const root = createRoot(domNode)
 
